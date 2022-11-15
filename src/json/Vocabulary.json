@@ -1,0 +1,63 @@
+{
+    "wards_list": 
+    [{
+        "ID": 1,
+        "Wards": "RED",
+        "Level": 1,
+        "Point": 4
+    },
+    {
+        "ID": 2,
+        "Wards": "APPLE",
+        "Level": 1,
+        "Point": 6
+    },
+    {
+        "ID": 3,
+        "Wards": "CAR",
+        "Level": 1,
+        "Point": 4
+    },
+    {
+        "ID": 4,
+        "Wards": "BALL",
+        "Level": 1,
+        "Point": 5
+    },
+    {
+        "ID": 5,
+        "Wards": "CITY",
+        "Level": 1,
+        "Point": 5
+    },
+    {
+        "ID": 6,
+        "Wards": "FRIEND",
+        "Level": 2,
+        "Point": 8
+    },
+    {
+        "ID": 7,
+        "Wards": "JAPANESE",
+        "Level": 2,
+        "Point": 10
+    },
+    {
+        "ID": 8,
+        "Wards": "ENGLISH",
+        "Level": 2,
+        "Point": 9
+    },
+    {
+        "ID": 9,
+        "Wards": "NIGHT",
+        "Level": 2,
+        "Point": 7
+    },
+    {
+        "ID": 10,
+        "Wards": "BASEBALL",
+        "Level": 2,
+        "Point": 10
+    }]
+}
